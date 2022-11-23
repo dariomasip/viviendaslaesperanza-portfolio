@@ -4,7 +4,7 @@ Viviendas La Esperanza is a brand in charge of manufacturing and installing hous
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/B4pRqqp/Sin-t-tulo-1.png)
+![App Screenshot](https://i.ibb.co/MCDRM42/screenshots.jpg)
 
 ## Tech Stack
 
