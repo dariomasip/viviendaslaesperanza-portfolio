@@ -12,7 +12,7 @@ Viviendas La Esperanza is a brand in charge of manufacturing and installing hous
 
 ## Authors
 
-- Developers: [@dariomasip](https://www.github.com/dariomasip), [@fedeuhr](https://github.com/fedeuhr), [@Neidys Betancourt](https://linkedin.com/in/betancourtneidys)
+- Developers: [@dariomasip](https://www.github.com/dariomasip), [@fedeuhr](https://github.com/fedeuhr), [@Neidys Betancourt](https://github.com/betancourtneidys)
 - Desing UI/UX: [@Tea Bussetti](https://www.behance.net/teabussetti)
 
 ## Demo
