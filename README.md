@@ -8,9 +8,8 @@ Viviendas La Esperanza is a brand in charge of manufacturing and installing hous
 
 ## Tech Stack
 
-## Tech Stack
-
 **Client:** React.js, HTML, CSS, JSON
+
 **Production:** AWS (Amazon Web Services)
 
 ## Authors
