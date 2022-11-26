@@ -8,13 +8,12 @@ Viviendas La Esperanza is a brand in charge of manufacturing and installing hous
 
 ## Tech Stack
 
-**Client:** React.js
+## Tech Stack
+
+**Client:** React.js, HTML, CSS, JSON
+**Production:** AWS (Amazon Web Services)
 
 ## Authors
 
-- Developers: [@dariomasip](https://www.github.com/dariomasip), [@fedeuhr](https://github.com/fedeuhr), [@Neidys Betancourt](https://github.com/betancourtneidys)
-- Desing UI/UX: [@Tea Bussetti](https://www.behance.net/teabussetti)
-
-## Demo
-
-https://viviendaslaesperanza.com
+- Developers: [@Darío Masip](https://www.github.com/dariomasip), [@Federico Pintos](https://github.com/fedeuhr), [@Neidys Betancourt](https://github.com/betancourtneidys)
+- Design UI/UX: [@Tea Bussetti](https://www.behance.net/teabussetti)
